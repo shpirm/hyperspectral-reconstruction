@@ -1,4 +1,4 @@
-# Hyperspectral Reconstruction from RGB Fundus Images
+# Hyperspectral Reconstruction from RGB Images
 
 Course: https://data-team-uhn.github.io/csc2431/
 
